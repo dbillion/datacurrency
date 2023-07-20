@@ -11,7 +11,7 @@ import com.github.javafaker.Faker;
 
 @RestController
 
-class DataController {
+public class DataController {
 
 	@GetMapping("/")
 
